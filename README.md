@@ -1,7 +1,7 @@
 # Hello, I'm Nicholas Donero
 <a href="https://www.linkedin.com/in/nicholas-donero-4616b9344/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+## Brief Introduction
 
 I'm a recent graduate of the Google Intro to IT Certificate course, and have a keen interest in IT, and pursuing a career within the field.
 
@@ -10,7 +10,6 @@ I'm a recent graduate of the Google Intro to IT Certificate course, and have a k
 My goal is to obtain the skills and knowledge to make my passion, into a full time career in IT.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
