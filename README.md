@@ -1,14 +1,13 @@
 # Hello, I'm Nicholas Donero
 <a href="https://www.linkedin.com/in/nicholas-donero-4616b9344/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a recent graduate of the Google Intro to IT Certificate course, and have a keen interest in IT, and pursuing a career within the field.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goal is to obtain the skills and knowledge to make my passion, into a full time career in IT.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
