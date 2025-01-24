@@ -52,11 +52,10 @@ My goal is to obtain the skills and knowledge to make my passion, into a full ti
 <a href="https://coursera.org/share/db8dc81bc3b76d43cf488569b58f1232">
   <img src="https://img.shields.io/badge/Technical%20Support%20Fundamentals-Certificate-%234285F4?style=for-the-badge&logo=google" alt="Technical Support Fundamentals Certificate">
 </a>
+<a href="https://coursera.org/share/0f1f036f4bd97b0ca803b6dbf3673439">
+  <img src="https://img.shields.io/badge/Bits%20and%20Bytes-Certificate-%234285F4?style=for-the-badge&logo=google" alt="Bits and Bytes Certificate">
+</a>
 
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
