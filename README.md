@@ -46,7 +46,9 @@ My goal is to obtain the skills and knowledge to make my passion, into a full ti
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="[Operating Systems](https://img.shields.io/badge/-Operating%20Systems-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/KQKOX0KR9DZX)"
+<a href="https://coursera.org/share/278dc745f7752974f8cf9fbfc35f74a1">
+  <img src="https://img.shields.io/badge/Operating%20Systems-Certificate-%234285F4?style=for-the-badge&logo=google" alt="Operating Systems Certificate">
+</a>
 
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
