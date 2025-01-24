@@ -49,6 +49,9 @@ My goal is to obtain the skills and knowledge to make my passion, into a full ti
 <a href="https://coursera.org/share/278dc745f7752974f8cf9fbfc35f74a1">
   <img src="https://img.shields.io/badge/Operating%20Systems-Certificate-%234285F4?style=for-the-badge&logo=google" alt="Operating Systems Certificate">
 </a>
+<a href="https://coursera.org/share/db8dc81bc3b76d43cf488569b58f1232">
+  <img src="https://img.shields.io/badge/Technical%20Support%20Fundamentals-Certificate-%234285F4?style=for-the-badge&logo=google" alt="Technical Support Fundamentals Certificate">
+</a>
 
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
