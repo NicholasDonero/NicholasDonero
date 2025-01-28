@@ -44,7 +44,6 @@ My goal is to obtain the skills and knowledge to make my passion, into a full ti
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://coursera.org/share/278dc745f7752974f8cf9fbfc35f74a1">
   <img src="https://img.shields.io/badge/Operating%20Systems-Certificate-%234285F4?style=for-the-badge&logo=google" alt="Operating Systems Certificate">
